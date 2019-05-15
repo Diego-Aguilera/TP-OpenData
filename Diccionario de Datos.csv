@@ -1,0 +1,25 @@
+Nombre,Descripcion,Tipo,Valores Posibles,Ejemplo
+Nombre,Nombre del Proyecto,String,,"""Superviaducto de Aviadores y Madame Lynch"""
+Tipo,"Especifica que clase de obra se realiza, para tener una vision general del trabajo realizado.",String,,"""Paso a Desnivel"""
+Estado,Indica en que estado actual se encuentra la obra.,String,"EN CONSTRUCCION, EN REPARACION, FINALIZADA, PENDIENTE","""FINALIZADA"""
+Departamento,Nombre del Departamento del terrritorio paraguayo en que se realiza la obra.,String,Departamentos del Territorio Paraguayo,"""Central"""
+Ciudad,Nombre de la Ciudad del terrritorio paraguayo en que se realiza la obra.,String,Ciudades del Territorio Paraguayo,"""Asunción"""
+Informacion,Informacion Adicional,String,,"""CONSTRUCCION DE PASOS A DESNIVEL EN LA INTERSECCION AVDA. MADAME LYNCH Y AVDA. AVIADORES DEL CHACO
+ID de Licitación: 295522
+Nombre de la Licitación: LPI PARA LA CONSTRUCCION DE PASOS A DESNIVEL EN LA INTERSECCION AVDA. MADAME LYNCH Y AVDA. AVIADORES DEL CHACO
+Proveedor: CORSAN CORVIAM CONSTRUCCION S.A.
+RUC: 80091326-4
+Código de Contratación (CC): LI-12013-15-112026
+Emisión del CC: 14-09-2015 - 17:05:48
+Monto Adjudicado? Número de Contrato226
+Fecha de Firma del Contrato09-09-2015"""
+Contratista,Nombre de la Empresa que realiza la Obra por contrato,String,Empresas Constructoras,"""PROEL INGENIERIA"""
+Extension,"Extension de la Obra en Metros, Kilometros, Metros Cuadrados, etc.",String,,"""600 metros"""
+Localidades,Lista de Locacalidades beneficiadas con el proyecto,String,"Ciudades, Barrios del territorio paraguayo separados por coma","""Asunción, Mariano Roque Alonso, Limpio, Luque, Fernando de la Mora"""
+Inicio,Fecha en la que se inicia el proyecto,Date,Fecha Valida,18-03-16
+Fin,Fecha en la que se finaliza el proyecto,Date,Fecha Valida,31-03-17
+Plazo,Plazo en Meses que duro el Proyecto,Int,Entero,12
+Avance,Porcentaje de finalizacion que se encuentra el proyecto,Int,0-100,100
+Financiacion,Fuente de Financiacion utilizada por el gobierno para el proyecto,String,,"""BID"""
+Inversion PYG,Monto en guaranies de la Inversion,Int,Entero o nulo,141086387988
+Inversion USD,Monto en dolares de la Inversion,Int,Entero o nulo,
