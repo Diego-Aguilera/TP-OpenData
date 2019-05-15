@@ -8,13 +8,7 @@ Tambien inclye un scrapper en python para generar la ultima version de este CSV.
   
 ### Requisitos
 
-* Python 3 con:
-
-Pipenv
-
-html-requests
-
-pandas
+* Python 3 con Pipenv, html-requests y pandas
 
 * OpenRefine
 
